@@ -1,0 +1,38 @@
+{
+    "movies": [
+        {
+            "title" : "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+            "year": 2005,
+            "language" : "English",
+            "genre" : "Fantasy"
+        },
+
+        {
+            "title" : "Die Welle",
+            "year": 2008,
+            "language" : "German",
+            "genre" : "Thriller"
+        },
+
+        {
+            "title" : "Låt den rätte komma in",
+            "year": 2008,
+            "language" : "Swedish",
+            "genre" : "Horror"
+        },
+
+        {
+            "title" : "Durak",
+            "year": 2014,
+            "language" : "Russian",
+            "genre" : "Drama"
+        },
+
+        {
+            "title" : "Amélie",
+            "year": 2001,
+            "language" : "French",
+            "genre" : "Comedy"
+        }
+    ]
+}
